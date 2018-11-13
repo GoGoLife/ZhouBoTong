@@ -1,0 +1,98 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - AlipaySDK-2.0 (15.0.2):
+    - AlipaySDK-2.0/Core (= 15.0.2)
+  - AlipaySDK-2.0/Core (15.0.2)
+  - BaiduMapKit (4.1.1)
+  - BMKLocationKit (1.2.1)
+  - Hyphenate (3.4.3)
+  - IQKeyboardManager (6.1.1)
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.1.0)
+  - MJRefresh (3.1.15.3)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - UMCCommon (1.5.2)
+  - UMCShare/Core (6.9.4):
+    - UMCCommon
+  - UMCShare/Social/QQ (6.9.4):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedQQ (6.9.4):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.4):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.9.4):
+    - UMCCommon
+    - UMCShare/Core
+  - WechatOpenSDK (1.8.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - AlipaySDK-2.0 (~> 15.0.2)
+  - BaiduMapKit (~> 4.1.1)
+  - BMKLocationKit
+  - Hyphenate
+  - IQKeyboardManager (~> 6.1.0)
+  - Masonry (~> 1.0.2)
+  - MBProgressHUD (~> 1.1.0)
+  - MJRefresh (~> 3.1.15.3)
+  - SDWebImage (~> 4.0.0)
+  - UMCCommon
+  - UMCShare/Social/QQ
+  - UMCShare/Social/ReducedWeChat
+  - UMCShare/UI
+  - WechatOpenSDK
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - AlipaySDK-2.0
+    - BaiduMapKit
+    - BMKLocationKit
+    - Hyphenate
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - UMCCommon
+    - UMCShare
+    - WechatOpenSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  AlipaySDK-2.0: 346e006fd2999d5ca5dd8869d03bc0a260fc48e0
+  BaiduMapKit: 51bba432a28316680676b4d453a70e5031f3a7eb
+  BMKLocationKit: c0fd588904738a6865e9311ed445c38452039007
+  Hyphenate: 25481379f376625823f21b91f6bbde44bb2a2e01
+  IQKeyboardManager: 79c57795f5c2408d259d37b9da2ed07efcbb5225
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  UMCCommon: 4392868ac47ff1b101663106bb114ba616fabbad
+  UMCShare: aa233aecad67979930fe43f3a2f676023b669439
+  WechatOpenSDK: 676feec516a11173eafd1fe64b10d27babf28701
+
+PODFILE CHECKSUM: ae74df8736f963d5f67886401958d897b19c0fff
+
+COCOAPODS: 1.5.0
